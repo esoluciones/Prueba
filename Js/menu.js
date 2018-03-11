@@ -1,7 +1,11 @@
 function nueva(){
+<<<<<<< HEAD
    var =10
 if(var=10)
  alert("Es igual a 10");
+=======
+
+>>>>>>> b75b833fc2581ca411825500b080be1eeb5a9104
 }
 
 
