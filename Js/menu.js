@@ -4,6 +4,11 @@ if(var=10)
  alert("Es igual a 10");
 esle
   alert("No es igual a 10");
+var = 20
+if(var=20)
+ alert("Es igual a 20");
+esle
+  alert("No es igual a 20");
 }
 
 
